@@ -317,7 +317,7 @@ function Home() {
                         <Col xs={12} md={6} lg={7}>
                             <h1>WCREDIT Staking Dashboard</h1>
                             <Button className="theme-btn">Stake WCredit</Button>
-                            <h4>Powered by ETH<span>BSC</span></h4>
+                            <h4>Powered by <img src={require('../Assets/img/demo.png').default} alt="" /> <span>BSC</span></h4>
                         </Col>
                         <Col xs={12} md={6} lg={5}>
                             <div className="stake-box">
