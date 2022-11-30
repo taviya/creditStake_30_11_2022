@@ -36,13 +36,7 @@ const Header = () => {
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="align-items-lg-center ms-auto">
                             <LinkContainer to="/">
-                                <Nav.Link>BSC Stake</Nav.Link>
-                            </LinkContainer>
-                            <LinkContainer to="/credit-stake">
-                                <Nav.Link>Credit Stake</Nav.Link>
-                            </LinkContainer>
-                            <LinkContainer to="/validator">
-                                <Nav.Link>Validator</Nav.Link>
+                                <Nav.Link>ETH</Nav.Link>
                             </LinkContainer>
                             <LinkContainer to="/faq">
                                 <Nav.Link>Faq's</Nav.Link>
